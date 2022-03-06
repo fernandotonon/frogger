@@ -1,3 +1,0 @@
-[submodule "dep/clayground"]
-	path = dep/clayground
-	url = https://github.com/MisterGC/clayground.git
