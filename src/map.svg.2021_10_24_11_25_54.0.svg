@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="71.561371mm"
+   height="100.79476mm"
+   viewBox="0 0 71.561371 100.79476"
+   version="1.1"
+   id="svg1623"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="map.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1617" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="-179.92472"
+     inkscape:cy="220.07856"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1304"
+     inkscape:window-x="0"
+     inkscape:window-y="64"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6135" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1620">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.09449405,0.75595238)">
+    <rect
+       y="91.807335"
+       x="24.531097"
+       height="3.7390227"
+       width="3.5938382"
+       id="rect5922"
+       style="opacity:1;fill:#d45500;fill-opacity:1;stroke:none;stroke-width:0.12464929;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <desc
+         id="desc5920">{&quot;component&quot;:&quot;Player&quot;}</desc>
+    </rect>
+    <rect
+       style="fill:#008d16;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect654"
+       width="71.291946"
+       height="33.679302"
+       x="0.58616269"
+       y="67.094315" />
+    <rect
+       style="fill:#008d16;fill-opacity:1;stroke-width:0.264583"
+       id="rect1581"
+       width="72.029465"
+       height="10.079206"
+       x="-0.15134026"
+       y="-1.0017867" />
+    <rect
+       style="fill:#0075fc;fill-opacity:1;stroke-width:0.264583"
+       id="rect1583"
+       width="72.521118"
+       height="58.016903"
+       x="-0.15134026"
+       y="8.8315859" />
+    <rect
+       style="fill:#9e754d;fill-opacity:1;stroke-width:0.264583"
+       id="rect1717"
+       width="20.650082"
+       height="3.1958473"
+       x="0.58616269"
+       y="11.289928"
+       ry="1.5979236" />
+  </g>
+</svg>
