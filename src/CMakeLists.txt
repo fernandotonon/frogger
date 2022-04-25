@@ -1,10 +1,10 @@
-cmake_minimum_required(VERSION 3.16)
+cmake_minimum_required(VERSION 3.19)
 project (frogger)
 
 set(CMAKE_INCLUDE_CURRENT_DIR ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOMOC ON)
-import_qt_components(Core Quick)
+find_package(Qt6 REQUIRED COMPONENTS Core Quick)
 
 add_executable (${PROJECT_NAME} main.cpp res.qrc)
 target_compile_features(${PROJECT_NAME} PUBLIC cxx_std_17)

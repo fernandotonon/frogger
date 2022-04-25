@@ -11,11 +11,12 @@ RectBoxBody
     bullet: true
     categories: Box.Category2
     collidesWith: Box.Category1
-    sensor: true
+
+   property int logVelocity: 0
 
     readonly property real veloCompMax: 25
     property real xDirDesire: theGameCtrl.axisX
-    linearVelocity.x: xDirDesire * veloCompMax
+    linearVelocity.x: xDirDesire * veloCompMax + logVelocity
     property real yDirDesire: -theGameCtrl.axisY
     linearVelocity.y: yDirDesire * veloCompMax
 }

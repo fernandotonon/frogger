@@ -11,6 +11,7 @@ RectBoxBody
     property int velocity: 10
     linearVelocity.x: velocity
     linearVelocity.y: 0
+    sensor: true
     Timer{
         interval: 10; running: true; repeat: true
         onTriggered: {
