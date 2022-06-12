@@ -6,5 +6,6 @@
         <file>Wall.qml</file>
         <file>map.svg</file>
         <file>Log.qml</file>
+        <file>World.qml</file>
     </qresource>
 </RCC>
